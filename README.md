@@ -6,4 +6,7 @@ Tugas kalian disini adalah:
 2. Tulis unit test di dalam repository ini menggunakan `jest`.
 3. Coverage minimal 70%
 
-Good luck!
+Good luck! <br>
+
+Link deploy Netlify :
+https://ornate-tiramisu-c2759e.netlify.app/
